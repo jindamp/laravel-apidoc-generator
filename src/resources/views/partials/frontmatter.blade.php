@@ -1,12 +1,5 @@
-title: API Reference
-
-language_tabs:
-- bash
-- javascript
-
-includes:
-
-search: true
-
-toc_footers:
-- <a href='http://github.com/mpociot/documentarian'>Documentation Powered by Documentarian</a>
+title: {{$title}}
+route: {{$route}}
+method: {{$method}}
+page_type: "api"
+last_updated: {{$date}}
