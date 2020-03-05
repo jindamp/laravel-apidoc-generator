@@ -1,6 +1,11 @@
+## It is updated version of origin repo Install it manually using composer to include groups while generating docs
+
 ## Laravel API Documentation Generator
 
 Automatically generate your API documentation from your existing Laravel routes. Take a look at the [example documentation](http://marcelpociot.de/whiteboard/).
+
+
+
 
 `php artisan api:gen --routePrefix="settings/api/*"`
 
